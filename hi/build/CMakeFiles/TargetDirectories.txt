@@ -1,0 +1,3 @@
+/mnt/c/Users/ericl/OneDrive/Desktop/Programming/CMake/hi/build/CMakeFiles/hi.dir
+/mnt/c/Users/ericl/OneDrive/Desktop/Programming/CMake/hi/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ericl/OneDrive/Desktop/Programming/CMake/hi/build/CMakeFiles/rebuild_cache.dir

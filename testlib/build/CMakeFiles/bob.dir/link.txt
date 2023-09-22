@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbob.a CMakeFiles/bob.dir/adder.cpp.o
+/usr/bin/ranlib libbob.a
