@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libbob.a CMakeFiles/bob.dir/adder.cpp.obj
+C:\MinGW\bin\ranlib.exe libbob.a

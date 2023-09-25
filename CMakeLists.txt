@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.6)
+project(testCMake)
+add_subdirectory( testlib )
+add_subdirectory( hi )
+add_subdirectory(googletest)

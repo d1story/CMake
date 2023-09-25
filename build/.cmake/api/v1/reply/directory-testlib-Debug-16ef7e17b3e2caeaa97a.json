@@ -1,0 +1,55 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"testlib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "C:/Users/ericl/OneDrive/Desktop/Programming/CMakeTwo/lib",
+			"paths" : 
+			[
+				"testlib/libbob.a"
+			],
+			"targetId" : "bob::@25b7cd379f787fd31012",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "C:/Users/ericl/OneDrive/Desktop/Programming/CMakeTwo/include",
+			"paths" : 
+			[
+				"testlib/adder.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "testlib",
+		"source" : "testlib"
+	}
+}

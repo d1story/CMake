@@ -1,0 +1,2 @@
+C:/Users/ericl/OneDrive/Desktop/Programming/CMakeTwo/lib/libbob.a
+C:/Users/ericl/OneDrive/Desktop/Programming/CMakeTwo/include/adder.h
